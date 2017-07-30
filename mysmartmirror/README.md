@@ -1,0 +1,2 @@
+# mysmartmirror
+smartmirror_python
